@@ -1,0 +1,6 @@
+langchain-groq    
+pydantic
+pymupdf
+python-dotenv
+apify-client
+-e .
